@@ -1,0 +1,64 @@
+html {
+    font-family: 'Verdel', sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url('img/stars.png');
+    color: white;
+    padding: 50px;
+    padding-top: 0px;
+}
+
+#title {
+    margin-left: 20%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#about {
+    margin-left: 0%;
+}
+
+li {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    line-height: 1em;
+}
+
+h4 {
+    margin-top: 1%;
+    margin-bottom: 0px;
+    padding: 0px;
+    line-height: 1em;
+}
+
+.quote {
+    width: 70%;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    float: right;
+    margin-right: 2%;
+}
+
+#quote-text {
+    margin-bottom: auto;
+}
+
+#quote-person {
+    margin-right: 50%;
+    float: bottom;
+}
+
+#dubois-img {
+    height: 400px;
+    float: right;
+    margin-right: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: white;
+}

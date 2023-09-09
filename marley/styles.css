@@ -1,0 +1,57 @@
+body{
+    background-image: url('images/starry-space.jpg');
+}
+
+img{
+    width:60%;
+    height:60%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.part1{
+    color:#de202a;
+    font-size:14;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;
+    text-align:center;
+}
+
+.ppart1{
+    color:#ffffff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:12;
+    inline-size:750px;
+    overflow:hidden;
+}
+
+.part2{
+    color:#fbb925;
+    font-size:14;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;
+}
+
+.ppart2{
+    color:#ffffff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:12;
+    inline-size:750px;
+    overflow:hidden;
+}
+
+.part3{
+    color:#026b40;
+    font-size:14;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;
+}
+
+.ppart3{
+    color:#ffffff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:12;
+    inline-size:750px;
+    overflow:hidden;
+}

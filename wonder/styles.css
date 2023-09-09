@@ -1,0 +1,86 @@
+body {
+    background-image: url('images/steviebg.jpg');
+    background-size:100vw;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#head {
+    margin-top: 50px;
+    margin-left:100px;
+    margin-right:1000px;
+    font-family: 'Poppins';
+    font-size:5vw;
+    color:#fbb925;
+    text-shadow: 1px 1px 2px black;
+    text-align:center;
+    line-height:100%;
+}
+
+#quote {
+    margin-top:-60px;
+    margin-left:100px;
+    margin-right:1000px;
+    font-style:italic;
+    font-size:2vw;
+    color:whitesmoke;
+    text-align:center;
+}
+
+#bio, #by {
+    color:whitesmoke;
+    font-family: 'Inter';
+    line-height:1.4;
+    font-size:1vw;
+    margin-left:100px;
+    margin-right:1000px;
+    text-align:center;
+}
+
+table {
+    margin-left: 125px;
+    align-items:center;
+    width:40%;
+}
+
+#site, #spot, #apple {
+    transition: 0.5s;
+}
+#site:hover, #apple:hover, #spot:hover {
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
+}
+
+#by {
+    font-size:12px;
+}
+
+/*RESPONSIVE*/
+@media only screen and (max-width:768px) {
+    #head, #quote, #bio, #by{
+        margin-right:350px;
+    }
+    #head {
+        font-size:10vw;
+    }
+    #quote {
+        font-size:3vw;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    #head, #quote, #bio, #by{
+        margin-right:350px;
+    }
+    #head {
+        font-size:10vw;
+    }
+    #quote {
+        font-size:5vw;
+    }
+}
+
+
+

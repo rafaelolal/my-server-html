@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+@font-face
+{
+	font-family: myFirstFont;
+	src: url("LeagueGothic-Regular[1].otf");
+}
+
+.bodyColor
+{
+	background-color: black;
+	color: white;
+	font-family: myFirstFont;
+}
+
+h1
+{
+	font-size: 85px;
+}
+
+h4
+{
+	font-size: 45px;
+}
+
+.borderColor
+{
+	border: thick solid red;
+}
+
+.border1{
+	border: thick solid green;
+}
+
+.border2{
+	border: thick solid yellow;
+}
+

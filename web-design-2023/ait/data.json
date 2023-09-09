@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Almeida, Rafael",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Bowdoin College",
+    "linkedin": "https://www.linkedin.com/in/rafael-almeida-386bb0202/",
+    "img": "000001"
+  },
+  {
+    "name": "Almeida, Victor",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Union College",
+    "linkedin": "",
+    "img": "000002"
+  },
+  {
+    "name": "Avni, Mia",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Northeastern University",
+    "linkedin": "",
+    "img": "000003"
+  },
+  {
+    "name": "Bak, Jason",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Cornell University",
+    "linkedin": "https://www.linkedin.com/in/jasonbak/",
+    "img": "000004"
+  },
+  {
+    "name": "Baptista, Lucas",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Washington University in St. Louis",
+    "linkedin": "https://www.linkedin.com/in/lucas-baptista-093213243/",
+    "img": "000005"
+  },
+  {
+    "name": "Bruckenstein, Eric",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Rutgers University",
+    "linkedin": "",
+    "img": "000006"
+  },
+  {
+    "name": "Calderon, Jason",
+    "school": "AIT",
+    "track": "Business",
+    "college": "UNC - Chapel Hill",
+    "linkedin": "https://www.linkedin.com/in/jason-calderon-406242202/",
+    "img": "000007"
+  },
+  {
+    "name": "Cardozo, Anthony",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Rutgers University",
+    "linkedin": "",
+    "img": "000008"
+  },
+  {
+    "name": "Chen, Angela",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "University of Washington",
+    "linkedin": "https://www.linkedin.com/in/angela-chen-ab2242202/",
+    "img": "000009"
+  },
+  {
+    "name": "Chethalan, Jennifer",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "New Jersey Institute of Technology",
+    "linkedin": "",
+    "img": "000010"
+  },
+  {
+    "name": "Cohen, Sam",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Montclair State University",
+    "linkedin": "",
+    "img": "000011"
+  },
+  {
+    "name": "Curry, Daniel",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rutgers University",
+    "linkedin": "https://www.linkedin.com/in/danielcurry05/",
+    "img": "000012"
+  },
+  {
+    "name": "Cvercko, Simon",
+    "school": "AIT",
+    "track": "Business",
+    "college": "University of Miami",
+    "linkedin": "",
+    "img": "000013"
+  },
+  {
+    "name": "DePaul, Sophia",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Harvard University",
+    "linkedin": "https://www.linkedin.com/in/sophie-depaul-2474b220a/",
+    "img": "000014"
+  },
+  {
+    "name": "Dias, Maya",
+    "school": "AIT",
+    "track": "Business",
+    "college": "University of Virginia",
+    "linkedin": "",
+    "img": "000015"
+  },
+  {
+    "name": "Diaz, Alexander",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "New Jersey Institute of Technology",
+    "linkedin": "https://www.linkedin.com/in/alexander-diaz-8554a5276/",
+    "img": "000016"
+  },
+  {
+    "name": "DuHaime, Cole",
+    "school": "AIT",
+    "track": "Business",
+    "college": "University of Pennsylvania",
+    "linkedin": "https://www.linkedin.com/in/cole-duhaime-416a18247/",
+    "img": "000017"
+  },
+  {
+    "name": "Elfadl, Hassan",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rutgers University",
+    "linkedin": "https://www.linkedin.com/in/hassan-elfadl-1b309a251/",
+    "img": "000018"
+  },
+  {
+    "name": "Ferrari, Sean",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Fairfield University",
+    "linkedin": "",
+    "img": "000019"
+  },
+  {
+    "name": "Fogle, Rebecca",
+    "school": "AIT",
+    "track": "Business",
+    "college": "University of Delaware",
+    "linkedin": "",
+    "img": "000020"
+  },
+  {
+    "name": "Gasson, Ryan",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rutgers University",
+    "linkedin": "",
+    "img": "000021"
+  },
+  {
+    "name": "Golding, Cole",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Worcester Polytechnic Institute",
+    "linkedin": "",
+    "img": "000022"
+  },
+  {
+    "name": "Groning, Ethan",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Rutgers University",
+    "linkedin": "",
+    "img": "000023"
+  },
+  {
+    "name": "Huang, Kevin",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Case Western Reserve University",
+    "linkedin": "https://www.linkedin.com/in/kevin-huang-b12461263/",
+    "img": "000024"
+  },
+  {
+    "name": "Imerlishvili, Sandro",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rutgers University",
+    "linkedin": "https://www.linkedin.com/in/sandro-imerlishvili/",
+    "img": "000025"
+  },
+  {
+    "name": "Ismail, Faisel",
+    "school": "AIT",
+    "track": "Business",
+    "college": "University of Chicago",
+    "linkedin": "",
+    "img": "000026"
+  },
+  {
+    "name": "Jacomes, Erick",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Farleigh Dickinson University",
+    "linkedin": "",
+    "img": "000027"
+  },
+  {
+    "name": "Joglekar, Urmi",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "University of Michigan",
+    "linkedin": "https://www.linkedin.com/in/urmi-joglekar-363910244/",
+    "img": "000028"
+  },
+  {
+    "name": "Karter, Theo",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rutgers University",
+    "linkedin": "",
+    "img": "000029"
+  },
+  {
+    "name": "Khedkar, Aditi",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "University of Maryland",
+    "linkedin": "https://www.linkedin.com/in/aditi-khedkar/",
+    "img": "000030"
+  },
+  {
+    "name": "Kim, Nathaniel",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "University of Chicago",
+    "linkedin": "https://www.linkedin.com/in/nathaniel-kim-2107b3204/",
+    "img": "000031"
+  },
+  {
+    "name": "Kim, William",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Columbia University",
+    "linkedin": "https://www.linkedin.com/in/william-kim-a107ab204/",
+    "img": "000032"
+  },
+  {
+    "name": "Lacourtna, Lucia",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "New Jersey Institute of Technology",
+    "linkedin": "",
+    "img": "000033"
+  },
+  {
+    "name": "Lee, Rebecca",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Tufts Unviersity",
+    "linkedin": "",
+    "img": "000034"
+  },
+  {
+    "name": "Lewis, Deejuanae",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "New York University",
+    "linkedin": "",
+    "img": "000035"
+  },
+  {
+    "name": "Licorish, Saniya",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rutgers University",
+    "linkedin": "",
+    "img": "000036"
+  },
+  {
+    "name": "Molina, Ashley",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rensselaer Polytechnic Institute",
+    "linkedin": "https://www.linkedin.com/in/ash-molina/",
+    "img": "000037"
+  },
+  {
+    "name": "Moonsammy, Caia",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Montclair State University",
+    "linkedin": "",
+    "img": "000038"
+  },
+  {
+    "name": "Murad, Alina",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Rutgers University",
+    "linkedin": "https://www.linkedin.com/in/alina-murad-52080524b/",
+    "img": "000039"
+  },
+  {
+    "name": "Neal, Miles",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Hampton University",
+    "linkedin": "",
+    "img": "000040"
+  },
+  {
+    "name": "Nicholls, Wesley",
+    "school": "AIT",
+    "track": "Business",
+    "college": "University of South Carolina",
+    "linkedin": "",
+    "img": "000041"
+  },
+  {
+    "name": "Nielsen, Mackenzie",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rutgers University ",
+    "linkedin": "",
+    "img": "000042"
+  },
+  {
+    "name": "O'Halloran, Mia",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Boston University",
+    "linkedin": "https://www.linkedin.com/in/mia-o-halloran-2642b227b/",
+    "img": "000043"
+  },
+  {
+    "name": "Oluwakuyide, Anuoluwa",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Massachusetts Institute of Technology",
+    "linkedin": "https://www.linkedin.com/in/anuoluwakuyide/",
+    "img": "000044"
+  },
+  {
+    "name": "Ostrovsky, Alan",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Emory University",
+    "linkedin": "https://www.linkedin.com/in/alan-ostrovsky-22a516265/",
+    "img": "000045"
+  },
+  {
+    "name": "Paida, Janet",
+    "school": "AIT",
+    "track": "Business",
+    "college": "N/A",
+    "linkedin": "https://www.linkedin.com/in/janet-paida-620591209/",
+    "img": "000046"
+  },
+  {
+    "name": "Palete, Rafael",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Pace University",
+    "linkedin": "",
+    "img": "000047"
+  },
+  {
+    "name": "Perrotta, Aaron",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Brown University",
+    "linkedin": "https://www.linkedin.com/in/aaronzp/",
+    "img": "000048"
+  },
+  {
+    "name": "Pillar, Alex",
+    "school": "AIT",
+    "track": "Business",
+    "college": "University of Rochester",
+    "linkedin": "",
+    "img": "000049"
+  },
+  {
+    "name": "Reilly, Peter",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Virginia Tech",
+    "linkedin": "",
+    "img": "000050"
+  },
+  {
+    "name": "Roache, Allyan",
+    "school": "AIT",
+    "track": "Business",
+    "college": "George Mason University",
+    "linkedin": "",
+    "img": "000051"
+  },
+  {
+    "name": "Roncallo, Ricardo",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Boston University",
+    "linkedin": "https://www.linkedin.com/in/ricardo-roncallo/",
+    "img": "000052"
+  },
+  {
+    "name": "Rooney, Robert",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Virginia Tech",
+    "linkedin": "",
+    "img": "000053"
+  },
+  {
+    "name": "Rosenthal, Amanda",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Northeastern University",
+    "linkedin": "https://www.linkedin.com/in/amanda-rosenthal-5b4887167/",
+    "img": "000054"
+  },
+  {
+    "name": "Rosenthal, William",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Cornell University",
+    "linkedin": "https://www.linkedin.com/in/william-rosenthal-77072b247/",
+    "img": "000055"
+  },
+  {
+    "name": "Ruiz, Lucas",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Rutgers University",
+    "linkedin": "",
+    "img": "000056"
+  },
+  {
+    "name": "Ruiz, Nicolas",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rutgers University",
+    "linkedin": "",
+    "img": "000057"
+  },
+  {
+    "name": "Sabates, Thomas",
+    "school": "AIT",
+    "track": "Business",
+    "college": "New Jersey Institute of Technology",
+    "linkedin": "",
+    "img": "000058"
+  },
+  {
+    "name": "Saguil, Annie",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Rutgers University",
+    "linkedin": "",
+    "img": "000059"
+  },
+  {
+    "name": "Santamaria Soriano, Axel",
+    "school": "AIT",
+    "track": "Business",
+    "college": "N/A",
+    "linkedin": "https://www.linkedin.com/in/axel-santamaria-soriano-383872273/",
+    "img": "000060"
+  },
+  {
+    "name": "Sayah, Eric",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Ramapo College",
+    "linkedin": "",
+    "img": "000061"
+  },
+  {
+    "name": "Schwarze, Christopher",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Seton Hall University",
+    "linkedin": "",
+    "img": "000062"
+  },
+  {
+    "name": "Sturr, Dylan",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rochester Institute-Technology",
+    "linkedin": "",
+    "img": "000063"
+  },
+  {
+    "name": "Tabuena, Jose",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "New Jersey Institute of Technology",
+    "linkedin": "https://www.linkedin.com/in/jose-armando-luis-tabuena-a57254256/",
+    "img": "000064"
+  },
+  {
+    "name": "Tao, Hannah",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Massachusetts Institute of Technology",
+    "linkedin": "https://www.linkedin.com/in/hannah-tao/",
+    "img": "000065"
+  },
+  {
+    "name": "Torres, Jason",
+    "school": "AIT",
+    "track": "Business",
+    "college": "N/A",
+    "linkedin": "",
+    "img": "000066"
+  },
+  {
+    "name": "Waldron, Michael",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Seton Hall Univeristy",
+    "linkedin": "https://www.linkedin.com/in/michael-waldron-339257255/",
+    "img": "000067"
+  },
+  {
+    "name": "Walters, Jared",
+    "school": "AIT",
+    "track": "Business",
+    "college": "Union College",
+    "linkedin": "",
+    "img": "000068"
+  },
+  {
+    "name": "Wasko, Kamil",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Kean University",
+    "linkedin": "",
+    "img": "000069"
+  },
+  {
+    "name": "White, Jordan",
+    "school": "AIT",
+    "track": "Business",
+    "college": "University of Michigan",
+    "linkedin": "https://www.linkedin.com/in/jordan-white-a23591242/",
+    "img": "000070"
+  },
+  {
+    "name": "Whitney, Maggie",
+    "school": "AIT",
+    "track": "Business",
+    "college": "University of Tennessee",
+    "linkedin": "",
+    "img": "000071"
+  },
+  {
+    "name": "Williams, Lance",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Pennsylvania State University",
+    "linkedin": "",
+    "img": "000072"
+  },
+  {
+    "name": "Zhou, Cory",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rose-Hulman Institute of Technology",
+    "linkedin": "",
+    "img": "000073"
+  },
+  {
+    "name": "Zhu, Andy",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "Rutgers University",
+    "linkedin": "https://www.linkedin.com/in/andy-zhu-2a9938246/",
+    "img": "000074"
+  },
+  {
+    "name": "Zissler, John Paul",
+    "school": "AIT",
+    "track": "Computer Science",
+    "college": "New Jersey Institute of Technology",
+    "linkedin": "",
+    "img": "000075"
+  }
+]

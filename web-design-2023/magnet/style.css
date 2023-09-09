@@ -1,0 +1,140 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+@font-face {
+  font-family: "MicroSquare";
+  src: url("Fonts/MicroSquare Regular.ttf");
+}
+
+#col {
+  width: 33%;
+  float: left;
+}
+
+#box1 {
+  width: 80%;
+  display: table;
+  min-height: 250px;
+  border: 10px;
+  border-color: #b01c1c;
+  background-color: #e21818;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  margin-bottom: 50px;
+  border-radius: 5%;
+  border-style: outset;
+  padding: 1%;
+}
+
+#box2 {
+  width: 80%;
+  display: table;
+  min-height: 250px;
+  border: 10px;
+  border-color: #1eba12;
+  background-color: #19e00b;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  margin-bottom: 50px;
+  border-radius: 5%;
+  border-style: outset;
+  padding: 1%;
+}
+
+#box3 {
+  width: 80%;
+  display: table;
+  min-height: 250px;
+  border: 10px;
+  border-color: #a4980e;
+  background-color: #dac910;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  margin-bottom: 50px;
+  border-radius: 5%;
+  border-style: outset;
+  padding: 1%;
+}
+
+#box4 {
+  width: 80%;
+  display: table;
+  min-height: 250px;
+  border: 10px;
+  border-color: #091781;
+  background-color: #1831f2;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  margin-bottom: 50px;
+  border-radius: 5%;
+  border-style: outset;
+  padding: 1%;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  border: solid 2px #000000;
+}
+
+#pic {
+  float: left;
+  width: 40%;
+  padding: 5%;
+}
+
+#text {
+  float: right;
+  width: 40%;
+  padding-right: 5%
+}
+
+body {
+  background-image: url("Pictures/background.jpg");
+}
+
+p,
+h2 {
+  font-family: "MicroSquare";
+}
+
+p {
+  font-size: 100%;
+  margin-bottom: -5%;
+}
+
+h2 {
+  font-size: 125%;
+}
+
+@media only screen and (max-width: 800px) {
+
+  #col {
+    width: 100%;
+    float: center;
+  }
+
+}
+
+@media only screen and ((min-width: 801px) and (max-width: 1450px)) {
+
+  #col {
+    width: 50%;
+    float: center;
+  }
+
+  p {
+    font-size: 90%;
+  }
+
+}

@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-image: url("img/spacekurzegast.jpg");
+}
+
+.header {
+  background-color: white;
+  border-radius: 6px;
+  width: 72%;
+  max-width: 900px;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  border-radius: 6px;
+  min-width: 100%;
+  width: 100%;
+}
+
+table {
+  background-color: white;
+  border-radius: 6px;
+  margin-left: 6%;
+  margin-right: 6%;
+  padding: 6px;
+}
+
+td {
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}

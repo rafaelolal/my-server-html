@@ -1,0 +1,107 @@
+@font-face {
+    font-family: EpiSemi;
+    src: url("Fonts/Epilogue-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: EpiSemiItalic;
+    src: url("Fonts/Epilogue-SemiBoldItalic.ttf");
+}
+
+@font-face {
+    font-family: EpiBold;
+    src: url("Fonts/Epilogue-Bold.ttf");
+}
+
+@font-face {
+    font-family: Epi;
+    src: url("Fonts/Epilogue-Regular.ttf");
+}
+
+@font-face {
+    font-family: EpiLight;
+    src: url("Fonts/Epilogue-Thin.ttf");
+}
+
+@font-face {
+    font-family: EpiItalic;
+    src: url("Fonts/Epilogue-Italic.ttf");
+}
+
+html {
+    background-color: black;
+    color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+}
+
+h1 {
+    font-family: EpiBold;
+}
+
+h2 {
+    font-family: EpiSemi;
+}
+
+h3 {
+    font-family: EpiSemiItalic;
+}
+
+h4 {
+    font-family: EpiLight;
+}
+
+p, a {
+    font-family: Epi;
+}
+
+ul {
+    font-family: Epi;
+    line-height: 150%;
+}
+
+hr {
+    background: linear-gradient(to right, #de202a, #fbb925, #026b40);
+    border-color: black;
+    width: 50px;
+    height: 5px;
+}
+
+.columnTL {
+    float: left;
+    width: 47%;
+}
+
+.columnTR {
+    float: right;
+    width: 50%;
+}
+
+.column1 {
+    float: left;
+    width: 70%;
+}
+
+.column2 {
+    float: right;
+    width: 25%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border-inline-color: #de202a;
+    border-top-color: #026b40;
+    border-bottom-color: #fbb925;
+}
+
+span {
+    font-size: 105%;
+}

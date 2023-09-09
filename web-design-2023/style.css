@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  /* Remove scrollbar space */
+  background: transparent;
+  /* Optional: just make scrollbar invisible */
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Righteous', cursive;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-child {
+  flex: 1;
+  border: 2px solid #000000;
+  height: 70vh;
+  /* margin: 20px; */
+  width: 480px;
+  position: relative;
+  opacity: 0.7;
+  background-color: Black;
+  z-index: 1;
+}
+
+.flex-child:first-child {
+  /* margin-right: 20px; */
+}
+
+#ucvtslogo {
+  margin-top: 20px;
+  margin-left: 20px;
+  height: 100px;
+}
+
+.title {
+  font-size: 50px;
+  margin-top: -85px;
+  margin-bottom: 45px;
+}
+
+.school-img {
+  width: 100%;
+  max-height: 100%;
+  overflow: hidden;
+  opacity: 0.5;
+
+}
+
+img.school-img {
+  object-fit: cover;
+  height: 100%;
+}
+
+.magnet {
+  object-position: -30px 0%;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+}
+
+/*#ait-button:hover, #magnet-button:hover{
+  opacity: 0.3
+}
+*/
+
+.opacity-cover {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  position: absolute;
+  background-color: black;
+  z-index:1;
+}
+
+.flex-child:hover .opacity-cover {
+  /* transition-timing-function: ease;*/
+    opacity:0.3
+}
+
+
+.school-title {
+  font-size: 50px;
+  color: white;
+}
+
+.school-title:not(:hover) {
+  opacity: 1;
+  ]
+}
+
+#secret {
+  text-decoration: none;
+}
+
+
+
+a:visited {
+  color: black;
+}
+
+.text {
+  font-family: 'Mulish', sans-serif;
+  font-size: 24px;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+
+.clickText {
+  font-family: 'Mulish', sans-serif;
+  font-size: 12px;
+}
+
+h1 {
+  font-family: 'Mulish', sans-serif;
+  f
+}

@@ -1,0 +1,141 @@
+html {
+  height: 100%;
+  width: 100%;
+  cursor: url("bees>.png"), crosshair;
+  
+}
+body {
+  background-image: url('beybginfo.jpg');
+  background-size: cover;
+  
+}
+.box {
+    border: 1px solid #FDD76F;
+    width: 800px;
+    height: 175px;
+    padding: 20px;
+    background-color: #2c2830;
+    float: right;
+}
+#head{
+font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-variant: small-caps;
+  color: #ffe08a;
+  text-shadow: 1px 1px 0 #f7cb6d, 2px 2px 0 #fac961, 3px 3px 0 #f2c86b, 4px 4px 0 #f0bf54, 5px 5px 0 #e3af3d, 6px 6px 0 #d19f32, 7px 7px 0 #d19f32, 8px 8px 0 #bd902d, 9px 9px 0 #d19104, 10px 10px 0 #ba8002, 11px 11px 0 #a37002, 12px 12px 0 #8a6a25, 13px 13px 10px rgba(0, 0, 0, 0.4);
+}
+.container {
+  position: relative;
+}
+
+
+.box2 {
+  border: 1px solid #FDD76F;
+  position: absolute;
+  top: 700px;
+  left: 90px;
+  width: 600px;
+  height: 300px;
+  padding: 20px;
+  background-color: #2c2830;
+  float: right;
+
+}
+.box3 {
+  border: 1px solid #FDD76F;
+  position: absolute;
+  top: 1500px;
+  right: 90px;
+  width: 600px;
+  height: 400px;
+  padding: 20px;
+  background-color: #2c2830;
+  float: left;
+
+}
+.header {
+  border: 1px solid #FDD76F;
+  position: absolute;
+  top: 650px;
+  bottom: 200px;
+  transform: translateX(-50%);
+  width: 500px;
+  height: 155px;
+  background-color: #2c2830;
+  padding: 30px;
+}
+.images {
+  position: absolute;
+  top: 250px;
+  left: 50%;
+  transform: translateX(-50%);
+  justify-content: space-evenly;
+  width: 800px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  cursor: url("bees>.png"), crosshair;
+
+  
+}
+
+.images img {
+  width: 270px;
+  height: 270px;
+  object-fit: cover;
+  bottom: 1000px;
+  width: 100%; height: 160px;
+  box-shadow: 3px 5px 6px black;
+  cursor: crosshair;
+
+}
+
+.a{
+  background-image: url('images/dil.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.b{
+background-image: url('images/BDay.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.c{
+background-image: url('images/iam.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.d{
+background-image: url('images/4.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.e{
+background-image: url('images/selftitled.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+.f{
+background-image: url('images/lemonade.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+.g{
+background-image: url('images/EIL.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.h{
+background-image: url('images/Renaissance.jpg');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}

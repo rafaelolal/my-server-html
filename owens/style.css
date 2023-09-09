@@ -1,0 +1,57 @@
+html,
+
+.body{
+  background-image: url("https://cdn.hswstatic.com/gif/outer-space.jpg");
+    background-size:     cover;   
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+#text {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: white;
+
+
+
+}
+
+#header {
+  font-size: 36px;
+  margin-left:40%;
+  margin-right:40%;
+  text-align: center;
+  margin-top:30px;
+  padding:20px;
+  border-style:solid;
+  border-color:#fbb925;
+  background-color:black;
+  color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#bio{
+  font-size:15px;
+  margin-left:25%;
+  margin-right:25%;
+  text-align: center;
+  margin-top:30px;
+  padding:20px;
+  border-style:solid;
+  border-color:#fbb925;
+  background-color:black;
+  color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+  
+}
+
+#owens{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style:solid;
+  border-color:#fbb925;
+}
+

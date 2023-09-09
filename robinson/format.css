@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Block Sans', sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0,0,0,0.8);
+    padding: 10px 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+  }
+  #logo {
+    font-size: 36px;
+    font-weight: bold;
+  }
+
+  h1 {
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 120px;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 10%;
+    height: auto;
+ 
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(65,105,255,0.5);
+  }
+  p {
+    font-size: 24px;
+    text-align: justify;
+    margin: 40px 80px;
+  }
